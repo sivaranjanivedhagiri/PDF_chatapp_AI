@@ -6,6 +6,9 @@ Chat seamlessly with multiple PDFs using **Langchain, Google Gemini Pro, and FAI
 
 With  Streamlit Deployment, it's all available at your fingertips. 📚💬
 
+**Demo** : 
+![image](https://github.com/user-attachments/assets/7a38bd60-6437-4e97-b438-3fe75857e2aa)
+
 
 **Transform your PDF experience now! 🔥✨**
 
@@ -61,3 +64,4 @@ Use: To extract text from PDFs and generate accurate responses to user queries, 
 
 
 
+![image](https://github.com/user-attachments/assets/564e6141-9210-4a1e-b658-dfde2ba9f119)
