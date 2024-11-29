@@ -63,5 +63,3 @@ Purpose: An integration package between LangChain and Google’s generative AI S
 Use: To extract text from PDFs and generate accurate responses to user queries, utilizing Google’s powerful AI models.
 
 
-
-![image](https://github.com/user-attachments/assets/564e6141-9210-4a1e-b658-dfde2ba9f119)
